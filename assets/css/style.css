@@ -1,0 +1,11 @@
+body,   .nav-collapse .btn input,
+button,
+select,
+textarea,
+.navbar-search .search-query {
+	font-family:OpenSansLight;
+}
+
+h1, h2, h3 {
+	font-family:OpenSansSemiBold;
+}
