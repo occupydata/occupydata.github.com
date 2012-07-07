@@ -9,3 +9,15 @@ textarea,
 h1, h2, h3 {
 	font-family:OpenSansSemiBold;
 }
+
+.screenshot {
+	--webkit-box-shadow:0 0 10px #777;
+	box-shadow:0 0 10px #777;
+	--webkit-border-radius:.3em;
+	border-radius:.3em;
+	margin-top:15px;
+	margin-bottom:15px;
+}
+.hero-unit {
+	padding:20px;
+}
