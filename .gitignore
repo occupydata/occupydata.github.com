@@ -1,1 +1,4 @@
+.DS_Store
 *.swp
+_config.yml
+_site/
